@@ -13,7 +13,7 @@ Building tools at the intersection of **AI agents**, **automation**, and **data 
 ### ⚙️ Automation & Operations
 - **[Kaos](https://github.com/karlau7/kaos)** — Automation and operations toolkit
 - **[Mission Control](https://github.com/karlau7/mission-control)** — System management and orchestration platform
-- **[Rapport Analyse](https://github.com/karlau7/rapport_analyse)** — Automated report analysis and insights
+- **[Rapport Analyse](https://github.com/karlau7/rapport_analyse)** — Automated document analysis and insight generation
 
 ### 📊 Data & ML
 - **[Tipping](https://github.com/karlau7/tipping)** — Sports betting tipping system with predictive models
@@ -37,6 +37,5 @@ Building tools at the intersection of **AI agents**, **automation**, and **data 
 ---
 
 <p align="center">
-  <sup><em>Profile auto-managed via Hermes Agent · </em></sup>
-  <a href="https://github.com/karlau7?tab=repositories&q=&type=archived&language=&sort="><sup><em>Archived experiments preserved for reference</em></sup></a>
+  <sup><em>Profile auto-managed via Hermes Agent</em></sup>
 </p>

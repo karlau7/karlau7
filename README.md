@@ -33,4 +33,7 @@ Building tools at the intersection of **AI agents**, **automation**, and **data 
 
 ---
 
-*Profile auto-managed via Hermes Agent. [Archived experiments](https://github.com/karlau7?tab=repositories&q=&type=archived&language=&sort=) are preserved for reference.*
+<p align="center">
+  <sup><em>Profile auto-managed via Hermes Agent · </em></sup>
+  <a href="https://github.com/karlau7?tab=repositories&q=&type=archived&language=&sort="><sup><em>Archived experiments preserved for reference</em></sup></a>
+</p>

@@ -56,5 +56,5 @@ Infra:        Docker • Linux • WSL • CI/CD • GitHub Actions
 ---
 
 <p align="center">
-  <sup><em>README auto-managed via Hermes Agent · Last updated 2026-07-05</em></sup>
+  <sup><em>README auto-managed via Hermes Agent · Last updated 2026-07-06</em></sup>
 </p>

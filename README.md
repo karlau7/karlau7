@@ -8,25 +8,27 @@ Building tools at the intersection of **AI agents**, **automation**, and **data 
 ---
 
 ### 🤖 AI & Agent Infrastructure
-- **[Hermes Backup](https://github.com/karlau7/hermes-backup)** — Config, skills, and operations for my AI agent ecosystem
 - **[Shiva](https://github.com/karlau7/shiva)** — Lightweight personal AI assistant framework
 - **[CWF](https://github.com/karlau7/CWF)** — Claude Workflow Engine: config-driven skills for Claude Code
 - **[Intel Engine](https://github.com/karlau7/intel-engine)** — Topic-agnostic news intelligence: collect, score, summarise
+- 🔒 **[Hermes Backup](https://github.com/karlau7/hermes-backup)** — Config, skills, and operations for my AI agent ecosystem
 
 ### ⚙️ Automation & Operations
 - **[Kaos](https://github.com/karlau7/kaos)** — Automation and operations toolkit
-- **[Mission Control](https://github.com/karlau7/mission-control)** — System management and orchestration platform
-- **[Rapport Analyse](https://github.com/karlau7/rapport_analyse)** — Automated document analysis and insight generation
+- 🔒 **[Mission Control](https://github.com/karlau7/mission-control)** — System management and orchestration platform
+- 🔒 **[Rapport Analyse](https://github.com/karlau7/rapport_analyse)** — Automated document analysis and insight generation
 
 ### 📊 Data & ML
-- **[Tipping](https://github.com/karlau7/tipping)** — Sports betting tipping system with predictive models
+- 🔒 **[Tipping](https://github.com/karlau7/tipping)** — Sports betting tipping system with predictive models
 - **[Project Manager](https://github.com/karlau7/project_manager)** — Planning and task management with kanban workflows
 
 ### 🌐 Web Applications
 - **[CRM](https://github.com/karlau7/CRM)** — Customer relationship management web application
 
 ### 📝 Knowledge Management
-- **[Obsidian Vaults](https://github.com/karlau7/obsidian-vaults)** — Personal knowledge management and note-taking vault
+- 🔒 **[Obsidian Vaults](https://github.com/karlau7/obsidian-vaults)** — Personal knowledge management and note-taking vault
+
+> 🔒 = Private repository
 
 ---
 

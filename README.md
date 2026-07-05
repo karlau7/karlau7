@@ -2,6 +2,9 @@
 
 Building tools at the intersection of **AI agents**, **automation**, and **data analysis**.
 
+![GitHub followers](https://img.shields.io/github/followers/karlau7?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/karlau7/karlau7?style=social)
+
 ---
 
 ### 🤖 AI & Agent Infrastructure
@@ -33,6 +36,12 @@ Building tools at the intersection of **AI agents**, **automation**, and **data 
 **Frameworks:** React, FastAPI, Flutter, Android (Jetpack)
 **AI/ML:** LLM orchestration, XGBoost, neural networks
 **Infrastructure:** Docker, Linux, WSL, automation pipelines
+
+---
+
+## 📈 GitHub Stats
+
+![Karl Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=karlau7&show_icons=true&count_private=true&hide_border=true)
 
 ---
 
